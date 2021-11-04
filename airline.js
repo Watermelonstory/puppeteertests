@@ -26,7 +26,7 @@ async function sendNotification(price) {
         service: "gmail",
         auth: {
             user: "c4r2d2@gmail.com",
-            pass: "bxlpbwaragtckxbb"
+            pass: "*****************"
         }
     });
 
